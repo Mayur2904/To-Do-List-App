@@ -2,6 +2,18 @@
 
 Run these commands:
 
+```markdown
+<style>
+.code-block {
+    background-color: #f4f4f4;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    border-radius: 5px;
+}
+</style>
+
+```bash
+
 sudo apt install nodejs
 
 sudo apt install npm

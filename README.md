@@ -25,7 +25,8 @@ or Run by docker compose
 
 #Node-App
 
-![image](https://github.com/Sumitkatkar/Automated-To-Do-List-Deployment-with-Monitoring-Excellence/assets/118961073/c61a6d91-d0e2-4c55-89f8-0ce41041a4fd)
+![to-do-frontend ](https://github.com/Mayur2904/To-Do-List-App/assets/87544670/cb22bb90-99d7-4113-a2ee-5d63c3c320da)
+
 
 #monitoring of node-app
 
